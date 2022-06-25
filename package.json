@@ -1,0 +1,22 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhtrikal/trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhtrikal/trial/issues"
+  },
+  "homepage": "https://github.com/shubhtrikal/trial#readme",
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
